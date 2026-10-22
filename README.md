@@ -8,7 +8,7 @@
     </ul>
  <h2>Humans I Know</h2>
     <ul>
-      <li>my web design bestie @Jacki3H has an awesome website</li>
-      <li>more friends! @TXD-Y, @blstrawb, @seanfair06, @delightfulhumanoidrobot</li>
-      <li>my web design teacher @cj0ne5</li>
+      <li>my web design bestie <a href="https://github.com/Jacki3H">@Jacki3H</a> has an awesome website</li>
+      <li>more friends! <a href="https://github.com/TXD-Y">@TXD-Y</a>, <a href="https://github.com/blstrawb">@blstrawb</a>, <a href="https://github.com/seanfair06">@seanfair06</a>, <a href="https://github.com/delightfulhumanoidrobot">@delightfulhumanoidrobot</a>, <a href="https://github.com/camerontemin012">@camerontemin012</a></li>
+      <li>my web design teacher <a href="https://github.com/cj0ne5">@cj0ne5</a></li>
     </ul>
