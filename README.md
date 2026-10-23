@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html lang=en>
   <h1>Greetings!</h1>
-    <p>My name is Olivia. I'm a high school student learning how to code websites. I like birds, art, nature, Halloween, photography, my friends, baking, coding, making short films, sewing, my dog, and (unnecessarily large amounts of) CSS. I know Python and C++, and I'm currently learning HTML, CSS, and JavaScript.</p>
+    <p>My name is Olivia! I'm a high school student at the <a href="https://github.io/GraceHopperCenter">@GraceHopperCenter</a>, and I'm currently learning how to code websites. I like birds, art, nature, Halloween, photography, my friends, baking, coding, making short films, sewing, my dog, and (unnecessarily large amounts of) CSS. I know Python and C++, and I'm currently learning HTML, CSS, and JavaScript.</p>
   <h2>My Projects</h2>
     <ul>
         <li><a href="https://detectiveosprey.github.io">my main website</a></li>
