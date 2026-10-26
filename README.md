@@ -3,7 +3,7 @@
   <h1>Greetings!</h1>
     <p>My name is Olivia! I'm a high school student at the <a href="https://github.io/GraceHopperCenter">@GraceHopperCenter</a>, and I'm currently learning how to code websites. 
       <br><br>
-      I like birds, art, nature, <em>Project Hail Mary</em>, Halloween, photography, my friends, baking, coding, making short films, sewing, my dog, and (unnecessarily large amounts of) CSS. 
+      I like birds, art, nature, <em>Project Hail Mary</em>, Halloween, photography, my friends, airplanes, baking, coding, making short films, sewing, my dog, and (unnecessarily large amounts of) CSS. 
       <br><br>
       I know Python and C++, and I'm currently learning HTML, CSS, and JavaScript.</p>
   <h2>My Projects</h2>
