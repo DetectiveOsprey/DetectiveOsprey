@@ -16,3 +16,4 @@
       <li>more friends! <a href="https://github.com/TXD-Y">@TXD-Y</a>, <a href="https://github.com/blstrawb">@blstrawb</a>, <a href="https://github.com/seanfair06">@seanfair06</a>, <a href="https://github.com/delightfulhumanoidrobot">@delightfulhumanoidrobot</a>, <a href="https://github.com/camerontemin012">@camerontemin012</a></li>
       <li>my web design teacher <a href="https://github.com/cj0ne5">@cj0ne5</a></li>
     </ul>
+</html>
